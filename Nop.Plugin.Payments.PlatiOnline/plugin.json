@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Plati Online",
+  "SystemName": "Payments.PlatiOnline",
+  "Version": "6",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "C Solution",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.PlatiOnline.dll",
+  "Description": "This plugin allows paying with PlatiOnline Standard"
+}
